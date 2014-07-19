@@ -1,3 +1,4 @@
+//
 package badfix.replace.digest
 
 import system.FileStatic;
